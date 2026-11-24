@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "stepsize-strategies: variable step size strategies for the Euler method"
+type: software
+version: 0.1.0
+date-released: 2026-11-24
+license: MIT
+repository-code: "https://github.com/ersanerdem/stepsize-strategies"
+url: "https://stepsizestrategies.pythonanywhere.com"
+authors:
+  - family-names: Erdem
+    given-names: Ersan
+    email: ersanerdem.ee@gmail.com
+keywords:
+  - ordinary differential equations
+  - Euler method
+  - step size
+preferred-citation:
+  type: article
+  title: "Web Application for Step Size Strategies"
+  authors:
+    - family-names: Erdem
+      given-names: Ersan
+    - family-names: Çelik Kızılkan
+      given-names: Gülnur
+    - family-names: Çıbıkdiken
+      given-names: Ali Osman
+  journal: "Konuralp Journal of Mathematics"
+  volume: 7
+  issue: 2
+  start: 475
+  end: 485
+  year: 2019
+  url: "https://dergipark.org.tr/en/pub/konuralpjournalmath/article/618922"
+references:
+  - type: thesis
+    title: "Adım Genişliği Stratejileri İçin Web Uygulaması (Web Application for Step Size Strategies)"
+    authors:
+      - family-names: Erdem
+        given-names: Ersan
+    thesis-type: "Master's thesis"
+    institution:
+      name: "Necmettin Erbakan University, Graduate School of Natural and Applied Sciences"
+      city: Konya
+      country: TR
+    year: 2019
